@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "5+7",
+    "type": "written",
+    "options": [],
+    "answer":  ["12"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "10+27",
+    "type": "written",
+    "options": [],
+    "answer":  ["37"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "22-14",
+    "type": "written",
+    "options": [],
+    "answer":  ["8"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "19+32",
+    "type": "written",
+    "options": [],
+    "answer":  ["51"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "18+9",
+    "type": "written",
+    "options": [],
+    "answer":  ["27"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "4+17",
+    "type": "written",
+    "options": [],
+    "answer":  ["21"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "16+5",
+    "type": "written",
+    "options": [],
+    "answer":  ["21"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "2+16",
+    "type": "written",
+    "options": [],
+    "answer":  ["18"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "9+21",
+    "type": "written",
+    "options": [],
+    "answer":  ["30"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "27-13",
+    "type": "written",
+    "options": [],
+    "answer":  ["14"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "22-7",
+    "type": "written",
+    "options": [],
+    "answer":  ["15"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "77-16",
+    "type": "written",
+    "options": [],
+    "answer":  ["61"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "33-11",
+    "type": "written",
+    "options": [],
+    "answer":  ["22"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "54-26",
+    "type": "written",
+    "options": [],
+    "answer":  ["28"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "12-7",
+    "type": "written",
+    "options": [],
+    "answer":  ["5"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "2+3",
+    "type": "written",
+    "options": [],
+    "answer":  ["5"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "12+8",
+    "type": "written",
+    "options": [],
+    "answer":  ["20"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "82-12",
+    "type": "written",
+    "options": [],
+    "answer":  ["70"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "52-17",
+    "type": "written",
+    "options": [],
+    "answer":  ["35"],
+    "difficulty": 1
+  },
+  {
+    "id": 1,
+    "miniGame": "middlesex",
+    "question": "9-4",
+    "type": "written",
+    "options": [],
+    "answer":  ["5"],
+    "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "7+3",
+  "type": "written",
+  "options": [],
+  "answer":  ["10"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "20/4",
+  "type": "written",
+  "options": [],
+  "answer":  ["5"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "12+15",
+  "type": "written",
+  "options": [],
+  "answer":  ["27"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "25-6",
+  "type": "written",
+  "options": [],
+  "answer":  ["19"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "7*3",
+  "type": "written",
+  "options": [],
+  "answer":  ["21"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "16/2",
+  "type": "written",
+  "options": [],
+  "answer":  ["8"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "22+2",
+  "type": "written",
+  "options": [],
+  "answer":  ["24"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "8+22",
+  "type": "written",
+  "options": [],
+  "answer":  ["30"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "30-10",
+  "type": "written",
+  "options": [],
+  "answer":  ["20"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "4*9",
+  "type": "written",
+  "options": [],
+  "answer":  ["36"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "45/5",
+  "type": "written",
+  "options": [],
+  "answer":  ["9"],
+  "difficulty": 1
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "(8 + 12) - (5 - 2)",
+  "type": "written",
+  "options": [],
+  "answer":  ["17"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "3 * 4 + 10 / 2",
+  "type": "written",
+  "options": [],
+  "answer":  ["17"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "(16 / 2) * (3 + 1)",
+  "type": "written",
+  "options": [],
+  "answer":  ["32"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "9 + 3 - 4 * 2",
+  "type": "written",
+  "options": [],
+  "answer":  ["4"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "(7 * 2) - (36 / 4)",
+  "type": "written",
+  "options": [],
+  "answer":  ["5"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "22 - (8 / 2) * 3 + 5",
+  "type": "written",
+  "options": [],
+  "answer":  ["15"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "(25 + 5) / (15 - 10)",
+  "type": "written",
+  "options": [],
+  "answer":  ["6"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "(18 - 3) * 2 / 3",
+  "type": "written",
+  "options": [],
+  "answer":  ["10"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "(24 / 3) * 4 - 16",
+  "type": "written",
+  "options": [],
+  "answer":  ["16"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "56 / 7 + 12 - 3",
+  "type": "written",
+  "options": [],
+  "answer":  ["17"],
+  "difficulty": 2
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "Derivative of: (3x^2)+2x-5",
+  "type": "written",
+  "options": [],
+  "answer":  ["6x+2", "6x + 2", "6x + 2 "],
+  "difficulty": 3
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "Derivative of: 4x^3",
+  "type": "written",
+  "options": [],
+  "answer":  ["12x^2", "12x ^2", "12x2"],
+  "difficulty": 3
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "Derivative of: (e^x)+3",
+  "type": "written",
+  "options": [],
+  "answer":  ["e^x"],
+  "difficulty": 3
+  },
+  {
+  "id": 1,
+  "miniGame": "middlesex",
+  "question": "Derivative of: (4x^3)-(9x^2)+x",
+  "type": "written",
+  "options": [],
+  "answer":  ["(12x^2)-18x+1"],
+  "difficulty": 3
+  }
+]

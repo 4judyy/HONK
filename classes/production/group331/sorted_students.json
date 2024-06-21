@@ -1,0 +1,74 @@
+[
+  {
+    "username": "dzhou224",
+    "password": "YIPEEEEE",
+    "permission": "Developer",
+    "totalScore": 239,
+    "middlesexScore": 230,
+    "naturalSciencesScore": 0,
+    "talbotScore": 0
+  },
+  {
+    "username": "goose",
+    "password": "goose",
+    "permission": "Teacher",
+    "totalScore": 0,
+    "middlesexScore": 0,
+    "naturalSciencesScore": 0,
+    "talbotScore": 0
+  },
+  {
+    "username": "johnDoe",
+    "password": "password123",
+    "permission": "Student",
+    "totalScore": 300,
+    "middlesexScore": 130,
+    "naturalSciencesScore": 0,
+    "talbotScore": 0
+  },
+  {
+    "username": "mwang966",
+    "password": "marissa",
+    "permission": "Student",
+    "totalScore": 304,
+    "middlesexScore": 104,
+    "naturalSciencesScore": 200,
+    "talbotScore": 0
+  },
+  {
+    "username": "myu365",
+    "password": "goosegoose",
+    "permission": "Student",
+    "totalScore": 321,
+    "middlesexScore": 100,
+    "naturalSciencesScore": 121,
+    "talbotScore": 100
+  },
+  {
+    "username": "sbian23",
+    "password": "goose2",
+    "permission": "Student",
+    "totalScore": 140,
+    "middlesexScore": 30,
+    "naturalSciencesScore": 30,
+    "talbotScore": 80
+  },
+  {
+    "username": "tinwood2",
+    "password": "goose",
+    "permission": "Student",
+    "totalScore": 999,
+    "middlesexScore": 130,
+    "naturalSciencesScore": 0,
+    "talbotScore": 0
+  },
+  {
+    "username": "username",
+    "password": "password",
+    "permission": "Student",
+    "totalScore": 0,
+    "middlesexScore": 0,
+    "naturalSciencesScore": 0,
+    "talbotScore": 0
+  }
+]
